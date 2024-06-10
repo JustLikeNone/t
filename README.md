@@ -6,7 +6,7 @@ For More Update Check https://github.com/0xEcstacy
 (STEPS)
 ---------------------
 
-1 - Turn off the protection because the mod is Detected as malware
+1 - turn off the protection because the mod is detected as malware
 
 2 - Open RocketLeague
 
