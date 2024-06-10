@@ -10,7 +10,9 @@ For More Update Check https://github.com/0xEcstacy
 
 2 - Open RocketLeague
 
-3 - Run Loader.exe
+3 - Run Injector.exe
+
+4 - Press F9 To Open Mod
 
 ----------------------
 
